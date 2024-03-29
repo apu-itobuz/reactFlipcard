@@ -3,6 +3,29 @@
     padding: 0;
     box-sizing: border-box;
 }
-.navSection{
-    display: flex;
+.productSearch{
+    width: 100%;
+    text-align: end;
+}
+.loginSection li{
+    list-style-type: none;
+}
+.loginSection a{
+   text-decoration: none; 
+   color: black;
+}
+.searcIcon{
+    left: 7px;
+    top: 7px;
+    
+
+}
+.loginIcon{
+    font-size: 25px;
+}
+.cartIcon{
+    font-size: 25px;
+}
+.sellerIcon{
+    font-size: 23px; 
 }
